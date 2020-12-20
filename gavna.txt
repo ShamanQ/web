@@ -1,0 +1,111 @@
+<section class="album py-5 bg-light">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+		</div>	
+		<div class="row">
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+			<div class="col-sm">
+				<img class="w-100" src="img/shop/item1.jpg" alt="">
+				<div class="card-body">
+					<p class="card-text">тут описание крч</p>
+					<div class="btn-group">
+						<button type="button" class="btn btn-sm btn-outline-primary">Buy</button>
+						<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+					</div>
+					<small class="text-muted">15$</small>
+				</div>
+			</div>
+		</div>		
+	</div>
+
+	
+</section>
