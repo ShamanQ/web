@@ -1,6 +1,4 @@
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-
 *{
 	margin: 0;
 	padding-right: 0;
@@ -63,7 +61,6 @@ nav a:hover
 {
 	border-bottom: 1px solid #ffffff;
 }
-
 .services
 {
 	text-align: center;
@@ -116,59 +113,6 @@ nav a:hover
 	font-weight: 300;
 	font-size: 26px;
 	margin: 8px 0;
-}
-@media screen and (max-width: 992px)
-{
-	.row-item
-	{
-		width: 45%;
-	}
-	.icon
-	{
-		display: flex;
-		margin: auto 0;
-		color: white;
-		padding: 5px 10px;
-		cursor: pointer;
-		border: 1px solid white;
-		border-radius: 4px;
-		font-size: 20px;
-	}
-	.portfolio-item
-	{
-		width: 50%;
-	}
-  ul
-  {
-    position: absolute;
-    left: 0;
-    right: 0;
-    background: #2d2f31;
-    height: 0px;
-    top:57px;
-    transition: all 250ms ease-in-out;
-    flex-direction: column;
-  }
-  .responsive ul
-  {
-    height: 200px;
-  }
-  .responsive li
-  {
-    display: inline-block;
-  }
-}
-@media screen and (max-width: 768px)
-{
-	.row-item
-	{
-		width: unset;
-	}
-	.container-row
-	{
-		flex-direction: column;
-	}
-
 }
 .icon
 {
@@ -512,4 +456,84 @@ footer ul {
 .orange
 {
 	background: #ecc0a6
+}
+@media screen and (max-width: 992px)
+{
+	.row-item
+	{
+		width: 45%;
+	}
+	.icon
+	{
+		display: flex;
+		margin: auto 0;
+		color: white;
+		padding: 5px 10px;
+		cursor: pointer;
+		border: 1px solid white;
+		border-radius: 4px;
+		font-size: 20px;
+	}
+	.portfolio-item
+	{
+		width: 50%;
+	}
+  ul
+  {
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: #2d2f31;
+    height: 0px;
+    top:57px;
+    transition: all 250ms ease-in-out;
+    flex-direction: column;
+  }
+  .responsive ul
+  {
+    height: 200px;
+  }
+  .responsive li
+  {
+    display: inline-block;
+  }
+}
+@media screen and (max-width: 768px)
+{
+	.row-item
+	{
+		width: unset;
+	}
+	.container-row
+	{
+		flex-direction: column;
+	}
+
+}
+.menu
+{
+	font-family: "Roboto", "OpenSans-Light", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+  	display: flex;
+  	justify-content: flex-end;
+  	align-items: center;
+  	flex: 1;
+}
+.menu li
+{
+	display: inline-block;
+	padding: 15px 25px;
+	color: #ffffff;
+}
+.menu a
+{
+	color: #ffffff;
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	transition: border 250ms ease-in-out;
+}
+.menu a:hover
+{
+	color: #ffffff;
+	border-bottom:1px solid #ffffff;
 }
